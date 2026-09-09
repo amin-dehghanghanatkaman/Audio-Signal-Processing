@@ -17,6 +17,6 @@ In this repository we implemented the following methods/approaches for audio sig
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/audio-signal-processing.git
+git clone https://github.com/amin-dehghanghanatkaman/Audio-Signal-Processing.git
 cd audio-signal-processing
 pip install -r requirements.txt
